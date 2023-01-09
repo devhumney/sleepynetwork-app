@@ -1,0 +1,21 @@
+.navbar{
+    background-color: blueviolet;
+    height: 50px;
+
+}
+.headerlogo{
+    width: 100px;
+    height: 100px;
+display: flex;
+}
+.navbar-nav{
+    display: flex;
+    list-style: none;
+
+}
+.nav-link{
+    margin-left: 5px;
+    margin-right: 5px;
+
+
+}
